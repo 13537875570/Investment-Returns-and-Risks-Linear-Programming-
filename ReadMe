@@ -1,0 +1,7 @@
+Run the file P3LPTestS1S2.java or P3LPTestS4S5.java so that you can get the results. 
+
+Make sure that the java files are all put in the folder called "app" or the code may not work. 
+
+P3LPTestS1S2.java runs the case of S1 and S2; P3LPTestS4S5.java runs the case of S4 and S5. 
+
+Of course, you can change the size and coefficients of the Linear Programming when you see"You can make change" in the java files. But do not change P3LP.java. 
